@@ -8,3 +8,5 @@ build
 .settings/	
 .classpath
 bazel-*
+# General .gitignore template
+.DS_Store
